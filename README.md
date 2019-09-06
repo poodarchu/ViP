@@ -2,5 +2,5 @@
 
 code will be made public.
 
-## Acknowledgement
+## Dependencies
 * this repo is based on [Det3D](https://github.com/poodarchu/det3d)
