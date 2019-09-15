@@ -3,4 +3,4 @@
 code will be made public.
 
 ## Dependencies
-* this repo is based on [Det3D](https://github.com/poodarchu/det3d)
+* this repo is based on [MegDet3D](https://github.com/poodarchu/megdet3d)
